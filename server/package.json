@@ -1,0 +1,15 @@
+{
+  "name": "api.yatodol",
+  "version": "0.0.0",
+  "description": "A restful api for yet another todo list",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supratim S",
+  "license": "MIT",
+  "devDependencies": {
+    "mongojs": "^0.18.2",
+    "restify": "^3.0.1"
+  }
+}
